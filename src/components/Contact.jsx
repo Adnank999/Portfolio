@@ -7,9 +7,7 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
-//Xl898hXMJBnoFcmHf
-//template_hdz8dfl
-//service_zsvnm8s
+
 
 const Contact = () => {
   const formRef = useRef();
